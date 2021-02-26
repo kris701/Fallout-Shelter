@@ -1,0 +1,11 @@
+{
+    "title" : "gm_falloutshelter",
+    "type" : "map",
+    "tags" : [ "build", "scenic" ],
+    "ignore" :
+    [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ]
+}
